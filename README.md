@@ -1,6 +1,6 @@
 Hi, I’m @iamkonrad, feel free to browse my repositories and hopefully you can find something useful here.
-- 💡 I’m interested in ... everyhing that concerns programming, with special interest in practical webapps.
-- 📚 I’m currently learning ... Python, Django (I am mostly creating practical webapps, such as online stores, management systems and so on).
+- 💡 I’m interested in ... everything that concerns programming, especially creating practical yet powerful everyday webapps.
+- 📚 I’m currently learning ... Python, Django (I am mostly creating practical webapps, such as online stores, management systems, and so on).
 
 
 ### :hammer_and_wrench: Languages and Tools :
