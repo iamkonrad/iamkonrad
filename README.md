@@ -1,6 +1,6 @@
 Hi, I’m @iamkonrad, feel free to browse my repositories and hopefully you can find something useful here.
 - 💡 I’m especially interested in ... practical everyday use webapps.
-- 📚 I’m currently learning ... Python, Django (I am mostly focusing on creating functional webapps, such as online stores, management systems, and so on).
+- 📚 I’m currently learning ... Python, Django, Javascript (I am mostly focusing on creating functional webapps, such as online stores, management systems, and so on).
 
 
 ### :hammer_and_wrench: Languages and Tools :
